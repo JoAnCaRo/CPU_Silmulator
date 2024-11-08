@@ -44,11 +44,11 @@ python3 --version
 1. Clone this repository:
    ```bash
    git clone https://github.com/JoAnCaRo/CPU_Simulator.git
-   cd simple-cpu-simulator
+   cd CPU_Simulator
    ```
 2. Run the program:
    ```bash
-   python3 cpu_simulator.py
+   python3 CPU_Simulator.py
    ```
 
 ## 🖱️ Instructions
@@ -61,9 +61,9 @@ Here’s a list of supported instructions:
 
 ## 📂 Project Structure
 ```
-simple-cpu-simulator/
+CPU_Simulator/
 │
-├── cpu_simulator.py   # Main Python script
+├── CPU_Simulator.py   # Main Python script
 └── README.md          # Project documentation
 ```
 
@@ -113,18 +113,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## 📄 License
 This project is open-source and available under the MIT License.
-
-```plaintext
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-...
-```
 
 ## 🙌 Acknowledgements
 Special thanks to everyone who has supported this project!
